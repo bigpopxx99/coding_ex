@@ -1,9 +1,3 @@
-import java.util.ArrayList;
-
-import javax.swing.RootPaneContainer;
-
-import org.omg.CORBA.FREE_MEM;
-
 public class Test {
 	
 	private static void changeArray(int[] input) {
@@ -15,10 +9,20 @@ public class Test {
 	
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		int[] o = new int[9];
-		changeArray(o);
-		System.out.println("after change:"+o.length);
+        MyStack stack = new MyStack();
+        stack.push(1);
+        stack.push(2);
+        stack.push(3);
+        stack.push(4);
+        stack.push(5);
+        
+        System.out.println(stack.pop());
+        System.out.println(stack.pop());
+        System.out.println(stack.pop());
+        System.out.println(stack.pop());
+        System.out.println(stack.pop());
+        System.out.println(stack.pop());
+		
 	}
 
 }
