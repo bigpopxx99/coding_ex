@@ -6,10 +6,9 @@ public class ShellSort {
 		if (array == null || array.length <= 1) {
 			return;
 		}
-		int span = array.length;
+		int span = array.length/2;
 		
 		while (true) {
-			span = 1;
 			int p = span;
 			for (int i=p; i<array.length; i=i+span) {
 				for (int j=0; j<i; j=j+span) {
@@ -24,6 +23,8 @@ public class ShellSort {
 			}
 			if (span == 1) {
 				break;
+			}else {
+				span = span / 2;
 			}
 		}
 	}
