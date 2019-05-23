@@ -22,7 +22,7 @@ public class ConvertBST {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-        int[] seed = {5,2,13,1,4};
+        Integer[] seed = {5,2,13,1,4};
         TreeNode root = TreeUtils.makeUpATree(seed);
         TreeNode ret = convertBST(root);
 	}

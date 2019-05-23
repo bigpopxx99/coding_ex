@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class TreeUtils {
 
-	public static TreeNode makeUpATree(int[] nodes) {
+	public static TreeNode makeUpATree(Integer[] nodes) {
 		if (nodes == null || nodes.length == 0) {
 			return null;
 		}
@@ -12,11 +12,17 @@ public class TreeUtils {
 		list.add(root);
 		int lastPIndex = (nodes.length) / 2 - 1;
 		while (pIndex <= lastPIndex) {
-			TreeNode lNode = new TreeNode(nodes[pIndex * 2 + 1]);
+			TreeNode lNode = null;
+			if (nodes[pIndex * 2 + 1] != null) {
+				lNode = new TreeNode(nodes[pIndex * 2 + 1]);
+			}
 			list.add(lNode);
 			list.get(pIndex).left = lNode;
 			if (pIndex * 2 + 2 < nodes.length) {
-				TreeNode rNode = new TreeNode(nodes[pIndex * 2 + 2]);
+				TreeNode rNode = null;
+				if (nodes[pIndex * 2 + 2] != null) {
+					rNode = new TreeNode(nodes[pIndex * 2 + 2]);
+				}
 				list.add(rNode);
 				list.get(pIndex).right = rNode;
 			}

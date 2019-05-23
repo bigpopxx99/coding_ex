@@ -30,7 +30,7 @@ public class MinDiffInBST {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int[] t = { 61, 50, 80, 20, 60 };
+		Integer[] t = { 61, 50, 80, 20, 60 };
 		TreeNode root = TreeUtils.makeUpATree(t);
 		System.out.println(minDiffInBST(root));
 	}
