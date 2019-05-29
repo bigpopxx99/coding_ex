@@ -9,5 +9,6 @@ public class Utils {
 				System.out.print(list.get(i) + " ");
 			}
 		}
+		System.out.println();
 	}
 }
