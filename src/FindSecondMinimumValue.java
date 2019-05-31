@@ -1,4 +1,9 @@
-import java.util.Stack;
+
+/**
+ * 思路：遍历左右节点，如果比根节点大，就不往下走了，如果一样的节点，继续往下，然后比较左右节点，取最小的，且和根节点不一致的返回，最后比较根节点和遍历后的左右最小值，得出结果
+ * @author xuxin
+ *
+ */
 
 public class FindSecondMinimumValue {
 	public int findSecondMinimumValue(TreeNode root) {
