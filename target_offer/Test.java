@@ -1,3 +1,5 @@
+import java.util.Stack;
+
 public class Test {
 	
 	private static void changeArray(int[] input) {
@@ -22,6 +24,7 @@ public class Test {
         System.out.println(stack.pop());
         System.out.println(stack.pop());
         System.out.println(stack.pop());
+        
 		
 	}
 
