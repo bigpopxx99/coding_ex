@@ -11,21 +11,12 @@ public class Test {
 	
 
 	public static void main(String[] args) {
-        MyStack stack = new MyStack();
-        stack.push(1);
-        stack.push(2);
-        stack.push(3);
-        stack.push(4);
-        stack.push(5);
-        
-        System.out.println(stack.pop());
-        System.out.println(stack.pop());
-        System.out.println(stack.pop());
-        System.out.println(stack.pop());
-        System.out.println(stack.pop());
-        System.out.println(stack.pop());
-        
-		
+        MyStack2 obj = new MyStack2();
+        obj.push(1);
+        obj.push(2);
+        int a1 = obj.top();
+        int a2 = obj.pop();
+        boolean b1 = obj.empty();
 	}
 
 }
