@@ -10,7 +10,7 @@ type iPeople interface {
 	speak()
 }
 
-type structBlackMan struct {
+type StructBlackMan struct {
 }
 
 func (blackMan structBlackMan) run() {
