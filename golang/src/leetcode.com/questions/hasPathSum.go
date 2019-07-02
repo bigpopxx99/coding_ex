@@ -1,8 +1,6 @@
 package questions
 
-import "leetcode.com/common"
-
-func hasPathSum(root *common.TreeNode, sum int) bool {
+func hasPathSum(root *TreeNode, sum int) bool {
 	if root == nil {
 		return false
 	}
