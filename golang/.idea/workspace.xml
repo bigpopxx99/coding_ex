@@ -11,90 +11,99 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="numMovesStones.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode.com/questions/numMovesStones.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="numMagicSquaresInside.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode.com/questions/numMagicSquaresInside.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1035">
-              <caret line="69" column="1" selection-start-line="2" selection-end-line="69" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="minDepth.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode.com/questions/minDepth.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="validMountainArray.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode.com/questions/validMountainArray.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="validMountainArray_test.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode.com/questions/validMountainArray_test.go">
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hello/main.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#14#71#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="minDepth_test.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode.com/questions/minDepth_test.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="containsNearbyDuplicate_test.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode.com/questions/containsNearbyDuplicate_test.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="numMagicSquaresInside_test.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode.com/questions/numMagicSquaresInside_test.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Utils.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode.com/questions/Utils.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TreeNode.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode.com/questions/TreeNode.go">
+      <file leaf-file-name="app.conf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hello/conf/app.conf">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="router.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hello/routers/router.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hello/controllers/default.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hello.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hello/hello.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+              <folding>
+                <element signature="e#14#53#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hello.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/github.com/user/hello/hello.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+              <folding>
+                <element signature="e#14#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="checkPerfectNumber.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode.com/questions/checkPerfectNumber.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="27" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="checkPerfectNumber_test.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode.com/questions/checkPerfectNumber_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wordPattern.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode.com/questions/wordPattern.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="41" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wordPattern_test.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode.com/questions/wordPattern_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -153,7 +162,6 @@
         <option value="$PROJECT_DIR$/src/leetcode.com/questions/Utils.go" />
         <option value="$PROJECT_DIR$/src/leetcode.com/questions/removeElements_test.go" />
         <option value="$PROJECT_DIR$/src/leetcode.com/questions/removeElements.go" />
-        <option value="$PROJECT_DIR$/src/github.com/user/hello/hello.go" />
         <option value="$PROJECT_DIR$/src/leetcode.com/questions/numMovesStones_test.go" />
         <option value="$PROJECT_DIR$/src/leetcode.com/questions/numMovesStones.go" />
         <option value="$PROJECT_DIR$/src/leetcode.com/questions/numMagicSquaresInside.go" />
@@ -165,6 +173,12 @@
         <option value="$PROJECT_DIR$/src/leetcode.com/questions/minDepth.go" />
         <option value="$PROJECT_DIR$/src/leetcode.com/questions/validMountainArray.go" />
         <option value="$PROJECT_DIR$/src/leetcode.com/questions/validMountainArray_test.go" />
+        <option value="$PROJECT_DIR$/src/hello/hello.go" />
+        <option value="$PROJECT_DIR$/src/leetcode.com/questions/wordPattern_test.go" />
+        <option value="$PROJECT_DIR$/src/leetcode.com/questions/wordPattern.go" />
+        <option value="$PROJECT_DIR$/src/leetcode.com/questions/checkPerfectNumber.go" />
+        <option value="$PROJECT_DIR$/src/leetcode.com/questions/checkPerfectNumber_test.go" />
+        <option value="$PROJECT_DIR$/src/github.com/user/hello/hello.go" />
       </list>
     </option>
   </component>
@@ -186,7 +200,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -241,6 +254,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -277,41 +291,31 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Test.validMountainArray_test.go">
-    <configuration name="go build routineTest.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build hello.go (1)">
+    <configuration name="go build hello.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="golang" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/github.com/user/hello/routineTest.go" />
+      <filePath value="$PROJECT_DIR$/src/github.com/user/hello/hello.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
-    <configuration name="containsNearbyDuplicate_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="go build hello.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/hello/hello.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="checkPerfectNumber_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="golang" />
       <working_directory value="$PROJECT_DIR$/src/leetcode.com/questions" />
       <go_parameters value="-i" />
       <framework value="gotest" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/src/leetcode.com/questions/containsNearbyDuplicate_test.go" />
-    </configuration>
-    <configuration name="minDepth_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="golang" />
-      <working_directory value="$PROJECT_DIR$/src/leetcode.com/questions" />
-      <go_parameters value="-i" />
-      <framework value="gotest" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/src/leetcode.com/questions/minDepth_test.go" />
-    </configuration>
-    <configuration name="numMagicSquaresInside_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="golang" />
-      <working_directory value="$PROJECT_DIR$/src/leetcode.com/questions" />
-      <go_parameters value="-i" />
-      <framework value="gotest" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/src/leetcode.com/questions/numMagicSquaresInside_test.go" />
+      <filePath value="$PROJECT_DIR$/src/leetcode.com/questions/checkPerfectNumber_test.go" />
     </configuration>
     <configuration name="validMountainArray_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="golang" />
@@ -322,33 +326,33 @@
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/src/leetcode.com/questions/validMountainArray_test.go" />
     </configuration>
+    <configuration name="wordPattern_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="golang" />
+      <working_directory value="$PROJECT_DIR$/src/leetcode.com/questions" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/src/leetcode.com/questions/wordPattern_test.go" />
+    </configuration>
     <list>
-      <item itemvalue="Go Test.numMagicSquaresInside_test.go" />
-      <item itemvalue="Go Test.containsNearbyDuplicate_test.go" />
-      <item itemvalue="Go Build.go build routineTest.go" />
-      <item itemvalue="Go Test.minDepth_test.go" />
       <item itemvalue="Go Test.validMountainArray_test.go" />
+      <item itemvalue="Go Build.go build hello.go" />
+      <item itemvalue="Go Test.wordPattern_test.go" />
+      <item itemvalue="Go Test.checkPerfectNumber_test.go" />
+      <item itemvalue="Go Build.go build hello.go (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build hello.go (1)" />
+        <item itemvalue="Go Test.checkPerfectNumber_test.go" />
+        <item itemvalue="Go Test.wordPattern_test.go" />
+        <item itemvalue="Go Build.go build hello.go" />
         <item itemvalue="Go Test.validMountainArray_test.go" />
-        <item itemvalue="Go Test.minDepth_test.go" />
-        <item itemvalue="Go Build.go build routineTest.go" />
-        <item itemvalue="Go Test.containsNearbyDuplicate_test.go" />
-        <item itemvalue="Go Test.numMagicSquaresInside_test.go" />
       </list>
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="minDepth_test_go - 2019.07.03 at 11h 19m 53s.xml">
-      <configuration name="minDepth_test.go" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="minDepth_test_go - 2019.07.03 at 11h 23m 21s.xml">
-      <configuration name="minDepth_test.go" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="minDepth_test_go - 2019.07.03 at 11h 23m 31s.xml">
-      <configuration name="minDepth_test.go" configurationId="GoTestRunConfiguration" />
-    </history-entry>
     <history-entry file="minDepth_test_go - 2019.07.03 at 11h 23m 36s.xml">
       <configuration name="minDepth_test.go" configurationId="GoTestRunConfiguration" />
     </history-entry>
@@ -370,22 +374,31 @@
     <history-entry file="validMountainArray_test_go - 2019.07.03 at 11h 44m 01s.xml">
       <configuration name="validMountainArray_test.go" configurationId="GoTestRunConfiguration" />
     </history-entry>
+    <history-entry file="wordPattern_test_go - 2019.07.04 at 17h 09m 29s.xml">
+      <configuration name="wordPattern_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="wordPattern_test_go - 2019.07.04 at 17h 17m 09s.xml">
+      <configuration name="wordPattern_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="checkPerfectNumber_test_go - 2019.07.04 at 17h 37m 41s.xml">
+      <configuration name="checkPerfectNumber_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50069445" side_tool="true" weight="0.39976415" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2936321" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2936321" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49930555" weight="0.39976415" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49930555" weight="0.39976415" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -418,87 +431,10 @@
           <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="22" />
+      <option name="time" value="23" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/idea.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="53" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode.com/questions/MinStack.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/go/src/sync/mutex.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="133" selection-start-line="133" selection-end-line="133" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/go/src/runtime/sema.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/go/src/text/template/parse/node.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="76" column="5" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode.com/questions/findAnagrams.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/go/src/strings/strings.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-352">
-          <caret line="302" column="5" selection-start-line="302" selection-start-column="5" selection-end-line="302" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode.com/questions/countSegments.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode.com/questions/countSegments_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/go/src/container/list/list.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode.com/questions/isValid20_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode.com/questions/isValild20.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -658,13 +594,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/github.com/user/hello/hello.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode.com/questions/MinStack_test.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -718,9 +647,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-          <folding>
-            <element signature="e#14#39#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -758,7 +684,92 @@
     <entry file="file://$PROJECT_DIR$/src/leetcode.com/questions/validMountainArray.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/github.com/astaxie/beego/controller.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8823">
+          <caret line="87" column="5" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hello/views/index.tpl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hello/conf/app.conf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hello/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#14#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hello/routers/router.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hello/controllers/default.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hello/hello.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <element signature="e#14#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode.com/questions/wordPattern_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode.com/questions/wordPattern.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="41" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode.com/questions/checkPerfectNumber_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode.com/questions/checkPerfectNumber.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/github.com/user/hello/hello.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding>
+            <element signature="e#14#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
