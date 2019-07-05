@@ -1,41 +1,17 @@
 package main
 
 import (
+	"leetcode.com/questions"
 	"fmt"
-	"math"
 )
 
-func checkPerfectNumber(num int) bool {
-	if num == 1{
-		return false
-	}
-	sum := 1
-	div := 2
-	for  {
-		if div > int(math.Sqrt(float64(num))) {
-			break
-		}
-		if num % div == 0 {
-			bigDiv := num / div
-			if bigDiv < div {
-				break
-			}else if bigDiv == div {
-				sum += div
-				break
-			}else{
-				sum += div + bigDiv
-			}
-		}
-		div++
-	}
-
-	return num == sum
-}
-
 func main() {
-	for i:=1; i<10000; i++{
-		if checkPerfectNumber(i) {
-			fmt.Println(i)
-		}
-	}
+	node := questions.ListNode{}
+	node.Val = 10
+	node2 := questions.ListNode{}
+	node2.Val = 10
+	var p1,p2 *questions.ListNode
+	p1 = &node
+	p2 = &node2
+	fmt.Println(*p1==*p2)
 }
